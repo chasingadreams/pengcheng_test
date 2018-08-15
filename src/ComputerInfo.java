@@ -14,6 +14,6 @@ public class ComputerInfo {
     }
 
     public  String getComputerCore(){
-        return "i78860";
+        return "i58860";
     }
 }
